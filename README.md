@@ -4,7 +4,7 @@ A responsive clone of Spotify's web player built using **HTML5** and **CSS3**. T
 
 ## Live Demo
 
-https://yourusername.github.io/spotify-clone/
+https://vedangnirgude.github.io/Spotify_clone/
 
 ## Features
 
